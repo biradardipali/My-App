@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import Navigation from '../../components/NavigationBar';
 import videoclip from '../../static/video/1.mp4';
-import Carousel from 'react-bootstrap/Carousel'
+
 import {card} from 'react-bootstrap'
 import img1 from '../../images/2.png';
-import Carousel1 from 'nuka-carousel';
+
 import { Slide } from 'react-slideshow-image';
 
 const slideImages = [
