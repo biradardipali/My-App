@@ -13,7 +13,7 @@
     "react-native": "^0.59.8",
     "react-native-video": "^4.4.1",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-slideshow-image": "^1.1.8",
     "react-video-cover": "^1.2.2"
   },
